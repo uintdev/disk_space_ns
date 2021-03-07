@@ -1,6 +1,6 @@
 # disk_space_example
 
-Demonstrates how to use the disk_space plugin.
+Demonstrates how to use the disk_space_ns plugin.
 
 ## Getting Started
 
