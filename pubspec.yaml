@@ -1,7 +1,6 @@
 name: disk_space_ns
 description: A tiny Flutter Plugin to show free and total disk space.
 version: 0.1.0
-author: Marvin Knabe <info@appgewaltig.de>
 homepage: https://appgewaltig.de
 
 environment:
@@ -20,13 +19,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-  # This section identifies this Flutter project as a plugin project.
-  # The androidPackage and pluginClass identifiers should not ordinarily
-  # be modified. They are used by the tooling to maintain consistency when
-  # adding or updating assets for this project.
-  plugin:
-    androidPackage: de.appgewaltig.disk_space
-    pluginClass: DiskSpacePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
